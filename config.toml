@@ -1,4 +1,9 @@
-baseURL = 'https://metayu.github.io//'
+baseURL = 'https://metayu.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Xiuyu`s Repo'
 theme = 'PaperMod'
+
+[[menu.main]]
+  name = 'Archives'
+  pageRef = '/archives'
+  weight = 30
