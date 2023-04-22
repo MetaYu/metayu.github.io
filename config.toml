@@ -4,6 +4,6 @@ title = 'Xiuyu`s Repo'
 theme = 'PaperMod'
 
 [[menu.main]]
-  name = 'Archives'
-  pageRef = '/archives'
+  name = 'About'
+  pageRef = '/about'
   weight = 30
